@@ -1,1 +1,0 @@
-# Embedded_Software_Linux
